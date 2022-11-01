@@ -1,0 +1,14 @@
+Detyre per ne shtepi:
+
+Grupi HTML/CSS:
+Krijimi i një formulari qe permban emrin dhe mbiemrin, moshen, email adresen, adresen ku banoni,
+nacionalitetin, dhe gjuhet programuese qe dini. Elementi input i formularit, duhet ta kete type,
+te ndryshem, jo vetem "text". Nuk pranohet nese e beni vetem text.
+
+Grupi JavaScript:
+Krijoni një funksion, që kthen si rezultat shumën e tre numrave natyrorë duke përdorur operatorët artimetikë?
+Krijoni një funksion, që kthen si rezultat një vlerë boolean duke përdorur operatorët e kushtëzuar?
+Krijoni një funksion që kthen si rezultat nëse një numër është qift?
+Krijoni një funksion që kthen si rezultat nëse një numër është tek?
+
+
